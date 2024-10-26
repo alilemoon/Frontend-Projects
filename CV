@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<!-- This Project is so Easy,So I Didn't Finish Him,I Did The Basic. -->
+<html>
+     <head>
+         <title>ALi Lemon's CV</title>
+     </head>
+     <body>
+         <hr>
+         <h1>Ali Lemon</h1> 
+         <h3>Junior Frontend Developer </h2>
+             <div>
+                 <p>123  Gora Al - Adel</p>
+                 <p>Draykish, ST 123</p>
+                 <p>0937 - 950 - 288</p>
+                 <p>alilemon515@gmail.com</p>
+             </div>
+         <h3>Skills</h3>
+             <p>HTML,CSS,JavaScript,Accessibility,Figma to Design,Responsive Web Design</p>
+             <p>Technical Writing,Presentation.</p>
+         <h3>Education</h3>
+             <h4>Amin Dabarha,Draykish - Master</h4>
+              July 2020 => Mars 2024
+              <ul>
+                 <li>I'd a girlfriend at that time</li>
+                 <li>I used to be the best student at the class</li>
+                 <li>My manager Tamem was a dick</li>
+              </ul>
+         <h3>Experience</h3>
+             <h4>Google,USA - CEO</h4>
+             April 2017 => May 2019
+         <h3>Across The Internet</h3>
+             <a href="mail:alilemon515@gmail.com">My Mail</a>   
+     </body>
+</html>
